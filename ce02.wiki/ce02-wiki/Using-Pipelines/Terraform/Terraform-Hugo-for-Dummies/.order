@@ -1,0 +1,8 @@
+logginganalytics.tf
+gitignore
+variables.tf
+providers.tf
+outputs.tf
+main.tf
+locals.tf
+env.tfvars

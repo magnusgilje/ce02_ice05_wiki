@@ -1,0 +1,9 @@
+- Virtual machines : gcp-vm-<cloudID>-<app name>-<###>
+- Network interface : gcp-nic-<##>-<vm name>-<subscription>-<###>
+- Public IP Address : gcp-pip-<cloudID>-<env>-<###>
+- Storage : gcp-st-<env>-<cloudid>-<###>
+- Logging : gcp-la-<subscription type>
+- Network : gcp-cvn-<subscription type>-<region>-<###>
+- Subnets : gcp-str-<subscription>-<region>-<###>
+- Cloud Function : gcp-<cloudID>-func-<app name>-<env>-<###>
+- KeyVault : gcp-km-<env>-<app name>-<cloudid>-<###>

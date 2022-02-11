@@ -1,0 +1,2 @@
+# Project Controls
+Within Project Settings (which may not always be available, dependent on access level), it is possible to add Approvers, who must approve code to pass through pipelines, Branch Control, that determines the branches that may be submitted to a pipeline, and other administrative controls such as restricting the hours between which a piece of code can be approved.

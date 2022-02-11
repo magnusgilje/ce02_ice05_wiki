@@ -1,0 +1,2 @@
+Creating a website on a virtual machine is exactly the same as doing it on your own computer which has the same operating requirements.
+To create a Hugo website on a Windows VM you can use the website instructions outlined here: [Creating Websites and Azure Repositories](/ce02-wiki/Website-Creation/Creating-Websites-and-Azure-Repositories) . To speed up the process you can then use ansible 
